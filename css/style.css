@@ -284,11 +284,11 @@ a {
   margin-bottom: 26px;
   height: 4px; }
   .progress .progress-bar {
-    background-color: #AC3B61;
+    background-color: #000;
     position: relative;
     border-radius: 4px; }
     .progress .progress-bar span {
-      background-color: #AC3B61;
+      background-color: #000;
       position: absolute;
       bottom: -20px;
       font-size: 10px;
